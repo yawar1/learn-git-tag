@@ -6,3 +6,4 @@ test repo to learn git tag via claude
 - Dashboard
 - Fix: login crash on empty password
 - Profile page
+- Dark mode
