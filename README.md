@@ -3,3 +3,4 @@ test repo to learn git tag via claude
 
 ## Features
 - Login page
+- Dashboard
